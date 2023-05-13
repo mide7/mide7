@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer with expertise in React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, Prisma, Mongoose, and Tailwind CSS. I love building interactive and scalable web applications using these technologies.
 
+<!-- ![Ayomide's GitHub stats](https://github-readme-stats.vercel.app/api?username=mide7&show_icons=true&theme=dark) -->
+
 ## Skills
 
 - React.js: I have extensive experience in building user interfaces and web applications using React.js. I'm proficient in using React components, managing state with hooks, and working with popular libraries and frameworks in the React ecosystem.
