@@ -40,12 +40,14 @@ I'm currently exploring and learning the following technologies:
 
 - React Native: I'm also exploring React Native for mobile app development, leveraging my React.js knowledge to build cross-platform applications.
 
+- Svelte: A new web framework that could rival react.
+
 ## Contact Me
 
 I'm open to collaboration and new opportunities. You can reach out to me through the following channels:
 
-- Email: [imharyomide@gmail.com](mailto:imharyomide@gmail.com)
-- LinkedIn: [Ayomide](https://www.linkedin.com/in/ayomide-peter-6440021b0/)
-<!-- - Personal Website: [Your Personal Website](https://www.yourwebsite.com) -->
+- Email: [ayomideosunsami@gmail.com](mailto:ayomideosunsami@gmail.com)
+- LinkedIn: [Ayomide Osunsami](https://www.linkedin.com/in/ayomide-osunsami-6440021b0/)
+- Personal Website: [My Personal Website](https://ayomide-osunsami.vercel.app/)
 
 Let's connect and discuss how we can create amazing software together!
