@@ -36,11 +36,17 @@ Feel free to explore my repositories for more exciting projects! -->
 
 I'm currently exploring and learning the following technologies:
 
+<!--
 - Rust: I'm diving into Rust, a systems programming language known for its safety, speed, and concurrency features.
 
 - React Native: I'm also exploring React Native for mobile app development, leveraging my React.js knowledge to build cross-platform applications.
 
 - Svelte: A new web framework that could rival react.
+-->
+- Go: I’m delving deeper into Go, a modern systems programming language renowned for its simplicity, efficiency, and concurrency. Its strong typing and garbage collection make it a great choice for building scalable and reliable applications.
+
+- DevOps: To complement my development skills, I’m also focusing on DevOps practices. This involves understanding infrastructure automation, continuous integration/continuous delivery (CI/CD) pipelines, and cloud platforms like AWS, GCP, or Azure. I aim to streamline development and deployment processes, ensuring efficient and reliable software delivery.
+
 
 ## Contact Me
 
