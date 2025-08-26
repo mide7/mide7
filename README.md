@@ -53,7 +53,7 @@ I'm currently exploring and learning the following technologies:
 I'm open to collaboration and new opportunities. You can reach out to me through the following channels:
 
 - Email: [ayomideosunsami@gmail.com](mailto:ayomideosunsami@gmail.com)
-- LinkedIn: [Ayomide Osunsami](https://www.linkedin.com/in/ayomide-osunsami-6440021b0/)
+- LinkedIn: [Ayomide Osunsami](https://www.linkedin.com/in/ayomide-osunsami/)
 - Personal Website: [My Personal Website](https://ayomide-osunsami.vercel.app/)
 
 Let's connect and discuss how we can create amazing software together!
